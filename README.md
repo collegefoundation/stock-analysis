@@ -1,4 +1,4 @@
-Stock research can be approached in a few different ways, depending on your goals and preferences. Here are some common types of stock research:
+Stock research :
 
 **Fundamental Analysis: **
 This type of research focuses on a company’s financial health, including earnings, revenue, profit margins, debt levels, and growth potential. 
